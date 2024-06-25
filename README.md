@@ -4,8 +4,8 @@
 This repository contains a simple Tableau project designed to showcase data visualization techniques using Tableau. The project includes a sample dataset and a Tableau workbook with various visualizations.
 
 ## Contents
-- `data/sample_data.csv`: The sample dataset used for the Tableau visualizations.
-- `tableau/project_dashboard.twbx`: The Tableau workbook containing the visualizations.
+- `dataple_data.csv`: The sample dataset used for the Tableau visualizations.
+- `tabdashboard.twbx`: The Tableau workbook containing the visualizations.
 
 ## Visualizations
 The Tableau workbook includes the following visualizations:
