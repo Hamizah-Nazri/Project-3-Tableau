@@ -9,6 +9,8 @@ This repository contains a simple Tableau project designed to showcase data visu
 
 ## Visualizations
 The Tableau workbook includes the following visualizations:
-- Sales Over Time: A line chart showing sales trends over time.
-- Sales by Region: A bar chart breaking down sales by region.
-- Product Performance: A scatter plot comparing product sales and profit.
+![Visual](Tableau-1.png)
+
+![Visual](Tableau-2.png)
+
+![Visual](Tableau-3.png)
